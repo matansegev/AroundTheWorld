@@ -1,4 +1,4 @@
-# 🌍 Travel Tracker
+# 🌍 Around the World
 
 A web application that allows users to track and manage countries they have visited. Built with Node.js, Express, and PostgreSQL.
 
@@ -32,7 +32,7 @@ Before running this application, make sure you have:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd travel-tracker
+   cd around-the-world
    ```
 
 2. **Install dependencies**
@@ -88,7 +88,7 @@ Before running this application, make sure you have:
 ## 📁 Project Structure
 
 ```
-travel-tracker/
+around-the-world/
 ├── index.js              # Main server file
 ├── package.json          # Project dependencies and scripts
 ├── queries.sql           # Database schema
