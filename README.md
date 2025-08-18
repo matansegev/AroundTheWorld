@@ -4,6 +4,17 @@ A web application that allows users to track and manage countries they have visi
 
 ## LIVE on render -  https://aroundtheworld-cihz.onrender.com/login
 
+## What is AroundTheWorld?
+
+AroundTheWorld is an interactive web application designed for travel enthusiasts who want to visualize and track their global adventures. Whether you're a seasoned traveler or just starting your journey, this app helps you:
+
+- **Track Your Travels**: Add countries you've visited to your personal travel map
+- **Visualize Your Journey**: See your visited countries highlighted on an interactive world map
+- **Manage Your List**: Easily add or remove countries from your visited list
+- **Share Your Progress**: Keep track of how many countries you've explored
+
+The application features a user-friendly interface with autocomplete search functionality, making it easy to find and add countries to your travel history. Perfect for travel bloggers, adventure seekers, or anyone who loves to document their global experiences!
+
 ## ✨ Features
 
 - **User Authentication**: Simple username-based login system
