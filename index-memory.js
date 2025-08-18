@@ -240,6 +240,6 @@ app.get("/all-countries", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Memory-based Travel Tracker running on http://localhost:${port}`);
+  console.log(`Memory-based Around the World running on http://localhost:${port}`);
   console.log(`Loaded ${countries.length} countries into memory`);
 });
