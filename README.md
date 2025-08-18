@@ -43,7 +43,8 @@ Before running this application, make sure you have:
    ```
 
 3. **Set up environment variables**
-   Create a `.env` file in the root directory with the following variables:
+   - Copy `.env.example` to `.env`
+   - Update the values in `.env` with your actual database credentials:
    ```env
    DB_USER=your_postgres_username
    DB_HOST=localhost
@@ -95,6 +96,7 @@ around-the-world/
 ├── package.json          # Project dependencies and scripts
 ├── queries.sql           # Database schema
 ├── countries.csv         # Country data
+├── .env.example          # Environment variables template
 ├── public/               # Static assets
 │   └── styles/          # CSS files
 │       ├── login.css    # Login page styles
