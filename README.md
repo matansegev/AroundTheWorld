@@ -46,7 +46,7 @@ Before running this application, make sure you have:
    - Copy `.env.example` to `.env`
    - Update the values in `.env` with your actual database credentials:
    ```env
-   DB_USER=your_postgres_username
+   DB_USER=postgres
    DB_HOST=localhost
    DB_NAME=your_database_name
    DB_PASSWORD=your_postgres_password
